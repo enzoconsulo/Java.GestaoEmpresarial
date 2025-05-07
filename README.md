@@ -58,38 +58,43 @@ Sem Licença
 ## Capturas de Tela
 
 ### Página Inicial  
-![Página Inicial](img_RunningProject/PaginaInicial.jpg)
+![Página Inicial](MainProjeto/img_RunningProject/PaginaInicial.jpg)
 
 ### Aba Clientes  
-![Aba Clientes](img_RunningProject/AbaClientes.jpg)
+![Aba Clientes](MainProjeto/img_RunningProject/AbaClientes.jpg)
 
 ### Aba Clientes – Adicionar Dívida  
-![Aba Clientes – Adicionar Dívida](img_RunningProject/AbaClientesAdicionarDivida.jpg)
+![Aba Clientes – Adicionar Dívida](MainProjeto/img_RunningProject/AbaClientesAdicionarDivida.jpg)
 
 ### Aba Clientes – Pagar Dívida  
-![Aba Clientes – Pagar Dívida](img_RunningProject/AbaClientesPagarDivida.jpg)
+![Aba Clientes – Pagar Dívida](MainProjeto/img_RunningProject/AbaClientesPagarDivida.jpg)
 
 ### Aba Estoque  
-![Aba Estoque](img_RunningProject/AbaEstoque.jpg)
+![Aba Estoque](MainProjeto/img_RunningProject/AbaEstoque.jpg)
 
 ### Aba Estoque – Editar Quantidade  
-![Aba Estoque – Editar Quantidade](img_RunningProject/AbaEstoqueEditarQuantidade.jpg)
+![Aba Estoque – Editar Quantidade](MainProjeto/img_RunningProject/AbaEstoqueEditarQuantidade.jpg)
 
 ### Aba Estoque – Venda 1  
-![Aba Estoque – Venda 1](img_RunningProject/AbaEstoqueVenda1.jpg)
+![Aba Estoque – Venda 1](MainProjeto/img_RunningProject/AbaEstoqueVenda1.jpg)
 
 ### Aba Estoque – Venda 2  
-![Aba Estoque – Venda 2](img_RunningProject/AbaEstoqueVenda2.jpg)
+![Aba Estoque – Venda 2](MainProjeto/img_RunningProject/AbaEstoqueVenda2.jpg)
 
 ### Aba Estoque – Venda 3  
-![Aba Estoque – Venda 3](img_RunningProject/AbaEstoqueVenda3.jpg)
+![Aba Estoque – Venda 3](MainProjeto/img_RunningProject/AbaEstoqueVenda3.jpg)
 
 ### Aba Estoque – Venda 4  
-![Aba Estoque – Venda 4](img_RunningProject/AbaEstoqueVenda4.jpg)
+![Aba Estoque – Venda 4](MainProjeto/img_RunningProject/AbaEstoqueVenda4.jpg)
 
 ### Aba Financeiro  
-![Aba Financeiro](img_RunningProject/AbaFinanceiro.jpg)
+![Aba Financeiro](MainProjeto/img_RunningProject/AbaFinanceiro.jpg)
 
+### Aba Financeiro – Final 1  
+![Aba Financeiro – Final 1](MainProjeto/img_RunningProject/AbaFinanceiroFinal1.jpg)
+
+### Aba Financeiro – Extrato Filtrado  
+![Aba Financeiro – Extrato Filtrado](MainProjeto/img_RunningProject/AbaFinanceiroFinal1Extratofiltrado.jpg)
 ### Aba Financeiro – Final 1  
 ![Aba Financeiro – Final 1](img_RunningProject/AbaFinanceiroFinal1.jpg)
 
