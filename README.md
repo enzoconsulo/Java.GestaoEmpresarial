@@ -58,45 +58,40 @@ Sem Licença
 ## Capturas de Tela
 
 ### Página Inicial  
-![Página Inicial](MainProjeto/img_RunningProject/PaginaInicial.jpg)
+<img src="MainProjeto/img_RunningProject/PaginaInicial.jpg" alt="Página Inicial" width="500px"/>
 
 ### Aba Clientes  
-![Aba Clientes](MainProjeto/img_RunningProject/AbaClientes.jpg)
+<img src="MainProjeto/img_RunningProject/AbaClientes.jpg" alt="Aba Clientes" width="500px"/>
 
 ### Aba Clientes – Adicionar Dívida  
-![Aba Clientes – Adicionar Dívida](MainProjeto/img_RunningProject/AbaClientesAdicionarDivida.jpg)
+<img src="MainProjeto/img_RunningProject/AbaClientesAdicionarDivida.jpg" alt="Aba Clientes – Adicionar Dívida" width="500px"/>
 
 ### Aba Clientes – Pagar Dívida  
-![Aba Clientes – Pagar Dívida](MainProjeto/img_RunningProject/AbaClientesPagarDivida.jpg)
+<img src="MainProjeto/img_RunningProject/AbaClientesPagarDivida.jpg" alt="Aba Clientes – Pagar Dívida" width="500px"/>
 
 ### Aba Estoque  
-![Aba Estoque](MainProjeto/img_RunningProject/AbaEstoque.jpg)
+<img src="MainProjeto/img_RunningProject/AbaEstoque.jpg" alt="Aba Estoque" width="500px"/>
 
 ### Aba Estoque – Editar Quantidade  
-![Aba Estoque – Editar Quantidade](MainProjeto/img_RunningProject/AbaEstoqueEditarQuantidade.jpg)
+<img src="MainProjeto/img_RunningProject/AbaEstoqueEditarQuantidade.jpg" alt="Aba Estoque – Editar Quantidade" width="500px"/>
 
 ### Aba Estoque – Venda 1  
-![Aba Estoque – Venda 1](MainProjeto/img_RunningProject/AbaEstoqueVenda1.jpg)
+<img src="MainProjeto/img_RunningProject/AbaEstoqueVenda1.jpg" alt="Aba Estoque – Venda 1" width="500px"/>
 
 ### Aba Estoque – Venda 2  
-![Aba Estoque – Venda 2](MainProjeto/img_RunningProject/AbaEstoqueVenda2.jpg)
+<img src="MainProjeto/img_RunningProject/AbaEstoqueVenda2.jpg" alt="Aba Estoque – Venda 2" width="500px"/>
 
 ### Aba Estoque – Venda 3  
-![Aba Estoque – Venda 3](MainProjeto/img_RunningProject/AbaEstoqueVenda3.jpg)
+<img src="MainProjeto/img_RunningProject/AbaEstoqueVenda3.jpg" alt="Aba Estoque – Venda 3" width="500px"/>
 
 ### Aba Estoque – Venda 4  
-![Aba Estoque – Venda 4](MainProjeto/img_RunningProject/AbaEstoqueVenda4.jpg)
+<img src="MainProjeto/img_RunningProject/AbaEstoqueVenda4.jpg" alt="Aba Estoque – Venda 4" width="500px"/>
 
 ### Aba Financeiro  
-![Aba Financeiro](MainProjeto/img_RunningProject/AbaFinanceiro.jpg)
+<img src="MainProjeto/img_RunningProject/AbaFinanceiro.jpg" alt="Aba Financeiro" width="500px"/>
 
 ### Aba Financeiro – Final 1  
-![Aba Financeiro – Final 1](MainProjeto/img_RunningProject/AbaFinanceiroFinal1.jpg)
+<img src="MainProjeto/img_RunningProject/AbaFinanceiroFinal1.jpg" alt="Aba Financeiro – Final 1" width="500px"/>
 
 ### Aba Financeiro – Extrato Filtrado  
-![Aba Financeiro – Extrato Filtrado](MainProjeto/img_RunningProject/AbaFinanceiroFinal1Extratofiltrado.jpg)
-### Aba Financeiro – Final 1  
-![Aba Financeiro – Final 1](img_RunningProject/AbaFinanceiroFinal1.jpg)
-
-### Aba Financeiro – Extrato Filtrado  
-![Aba Financeiro – Extrato Filtrado](img_RunningProject/AbaFinanceiroFinal1Extratofiltrado.jpg)
+<img src="MainProjeto/img_RunningProject/AbaFinanceiroFinal1Extratofiltrado.jpg" alt="Aba Financeiro – Extrato Filtrado" width="500px"/>
