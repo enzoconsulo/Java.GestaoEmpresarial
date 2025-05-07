@@ -38,7 +38,7 @@ Como importar e executar no Eclipse:
    • Botão direito no projeto → Build Path → Configure Build Path
    • Na aba Libraries, valide o JRE System Library apontando para Java 11+
 6. Para rodar a aplicação:
-   • No Package Explorer, expanda src/ e localize a classe com método main
+   • No Package Explorer, expanda src/ e localize a classe com método "teste"
    • Botão direito na classe → Run As → Java Application
 
 Funcionalidades principais:
