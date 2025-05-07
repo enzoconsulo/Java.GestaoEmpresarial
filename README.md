@@ -57,41 +57,67 @@ Sem Licença
 
 ## Capturas de Tela
 
-### Página Inicial  
-<img src="MainProjeto/img_RunningProject/PaginaInicial.jpg" alt="Página Inicial" width="500px"/>
-
-### Aba Clientes  
-<img src="MainProjeto/img_RunningProject/AbaClientes.jpg" alt="Aba Clientes" width="500px"/>
-
-### Aba Clientes – Adicionar Dívida  
-<img src="MainProjeto/img_RunningProject/AbaClientesAdicionarDivida.jpg" alt="Aba Clientes – Adicionar Dívida" width="500px"/>
-
-### Aba Clientes – Pagar Dívida  
-<img src="MainProjeto/img_RunningProject/AbaClientesPagarDivida.jpg" alt="Aba Clientes – Pagar Dívida" width="500px"/>
-
-### Aba Estoque  
-<img src="MainProjeto/img_RunningProject/AbaEstoque.jpg" alt="Aba Estoque" width="500px"/>
-
-### Aba Estoque – Editar Quantidade  
-<img src="MainProjeto/img_RunningProject/AbaEstoqueEditarQuantidade.jpg" alt="Aba Estoque – Editar Quantidade" width="500px"/>
-
-### Aba Estoque – Venda 1  
-<img src="MainProjeto/img_RunningProject/AbaEstoqueVenda1.jpg" alt="Aba Estoque – Venda 1" width="500px"/>
-
-### Aba Estoque – Venda 2  
-<img src="MainProjeto/img_RunningProject/AbaEstoqueVenda2.jpg" alt="Aba Estoque – Venda 2" width="500px"/>
-
-### Aba Estoque – Venda 3  
-<img src="MainProjeto/img_RunningProject/AbaEstoqueVenda3.jpg" alt="Aba Estoque – Venda 3" width="500px"/>
-
-### Aba Estoque – Venda 4  
-<img src="MainProjeto/img_RunningProject/AbaEstoqueVenda4.jpg" alt="Aba Estoque – Venda 4" width="500px"/>
-
-### Aba Financeiro  
-<img src="MainProjeto/img_RunningProject/AbaFinanceiro.jpg" alt="Aba Financeiro" width="500px"/>
-
-### Aba Financeiro – Final 1  
-<img src="MainProjeto/img_RunningProject/AbaFinanceiroFinal1.jpg" alt="Aba Financeiro – Final 1" width="500px"/>
-
-### Aba Financeiro – Extrato Filtrado  
-<img src="MainProjeto/img_RunningProject/AbaFinanceiroFinal1Extratofiltrado.jpg" alt="Aba Financeiro – Extrato Filtrado" width="500px"/>
+<table>
+  <tr>
+    <td align="center">
+      <img src="MainProjeto/img_RunningProject/PaginaInicial.jpg" width="300px"/><br/>
+      Página Inicial
+    </td>
+    <td align="center">
+      <img src="MainProjeto/img_RunningProject/AbaClientes.jpg" width="300px"/><br/>
+      Aba Clientes
+    </td>
+    <td align="center">
+      <img src="MainProjeto/img_RunningProject/AbaClientesAdicionarDivida.jpg" width="300px"/><br/>
+      Aba Clientes – Adicionar Dívida
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="MainProjeto/img_RunningProject/AbaClientesPagarDivida.jpg" width="300px"/><br/>
+      Aba Clientes – Pagar Dívida
+    </td>
+    <td align="center">
+      <img src="MainProjeto/img_RunningProject/AbaEstoque.jpg" width="300px"/><br/>
+      Aba Estoque
+    </td>
+    <td align="center">
+      <img src="MainProjeto/img_RunningProject/AbaEstoqueEditarQuantidade.jpg" width="300px"/><br/>
+      Aba Estoque – Editar Quantidade
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="MainProjeto/img_RunningProject/AbaEstoqueVenda1.jpg" width="300px"/><br/>
+      Aba Estoque – Venda 1
+    </td>
+    <td align="center">
+      <img src="MainProjeto/img_RunningProject/AbaEstoqueVenda2.jpg" width="300px"/><br/>
+      Aba Estoque – Venda 2
+    </td>
+    <td align="center">
+      <img src="MainProjeto/img_RunningProject/AbaEstoqueVenda3.jpg" width="300px"/><br/>
+      Aba Estoque – Venda 3
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="MainProjeto/img_RunningProject/AbaEstoqueVenda4.jpg" width="300px"/><br/>
+      Aba Estoque – Venda 4
+    </td>
+    <td align="center">
+      <img src="MainProjeto/img_RunningProject/AbaFinanceiro.jpg" width="300px"/><br/>
+      Aba Financeiro
+    </td>
+    <td align="center">
+      <img src="MainProjeto/img_RunningProject/AbaFinanceiroFinal1.jpg" width="300px"/><br/>
+      Aba Financeiro – Final 1
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <img src="MainProjeto/img_RunningProject/AbaFinanceiroFinal1Extratofiltrado.jpg" width="300px"/><br/>
+      Aba Financeiro – Extrato Filtrado
+    </td>
+  </tr>
+</table>
